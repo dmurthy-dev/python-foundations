@@ -1,2 +1,2 @@
-# pythn-foundations
+# python-foundations
 Python
